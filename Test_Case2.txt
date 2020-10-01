@@ -1,0 +1,9 @@
+Test Name: Order of 7 T-shirts
+
+Test Description:They ordered for different colour T-shirts with same designed and fixed the price for RS.500 for wach piece.
+
+Desired Outcome: Outcome spoke about the successful payement and confirms the quantity. 
+
+Actual Outcome: It matched the outcome as I desired
+
+Result: Pass
